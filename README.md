@@ -1,3 +1,21 @@
+# Prueba técnica Front end Data Observatory :stars:
+
+## Instalar dependencias
+```javascript
+npm install | npm i
+```
+
+## Levantar el proyecto
+```javascript
+npm start
+```
+
+## Screenshots
+
+![image](https://user-images.githubusercontent.com/39087254/181417589-e13971b3-c9eb-42f4-9f62-d2c9fda4e86e.png)
+
+![image](https://user-images.githubusercontent.com/39087254/181417688-b01f5caf-abbc-4046-8c6a-9c7675d5f91f.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
